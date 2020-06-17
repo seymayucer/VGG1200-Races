@@ -5,18 +5,18 @@ presented by [Exploring Racial Bias within Face Recognition via per-subject Adve
 
 ## Requirements
 
-Please click to download [VGGFace 2](http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/) and [pretrained models]().
+Please click to download [VGGFace 2](http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/) and [pretrained models](https://durhamuniversity-my.sharepoint.com/:u:/g/personal/xcnf86_durham_ac_uk/EU4mc4gc-kVEujWN37A-TwYBvrciAaXbAx2ojUz7y2AFEg?e=E8Oa7j).
 
 * Python 3.6
 * Pytorch > 1.0
 
 ## Instructions to generate synthetic images using pre-trained models:
 
-    python generate.py --dir AftoCA
+    python generate.py 
 
 
 
-## Exampler image samples:
+## Example Images:
 ![Good Examples examples](assets/good.png)
 
 ![Bad examples](assets/bad.png)
