@@ -21,7 +21,7 @@ Please click to download [VGGFace 2](http://www.robots.ox.ac.uk/~vgg/data/vgg_fa
 
 ![Bad examples](assets/bad.png)
 
-######Figure: A selection of successful (top) and failure (bottom) examples of the racial domain transformation of VGGFace2dataset. Each column contains an original and sythesised face images of the same subject where the green (top) and red (bottom) bordersindicate the original image and the corresponding race labels are laid out on the y-axis
+Figure: A selection of successful (top) and failure (bottom) examples of the racial domain transformation of VGGFace2dataset. Each column contains an original and sythesised face images of the same subject where the green (top) and red (bottom) bordersindicate the original image and the corresponding race labels are laid out on the y-axis
 
 ## Example video:
 [![Examples](assets/video_header.jpg)](https://www.youtube.com/watch?v=KlOwHFz9FBs)
